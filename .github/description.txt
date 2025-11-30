@@ -1,0 +1,8 @@
+# PumaShield.com Public Repository
+
+This is a public community repository for PumaShield.
+
+Main development happens in private repositories.
+
+For more information, see README.md
+
