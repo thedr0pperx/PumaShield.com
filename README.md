@@ -25,23 +25,23 @@ PumaShield is your personal digital security guard that protects your online acc
 ## 🎯 What PumaShield Does
 
 ### Real-Time Account Protection
-- **24/7 Monitoring** - PumaShield quietly watches over your accounts around the clock
+- **24/7 Monitoring** - PumaShield quietly protects you around the clock
 - **Instant Alerts** - Get notified immediately when suspicious activity is detected
-- **Multi-Platform Support** - Protect all your important accounts in one place
-- **Zero False Alarms** - Smart algorithms learn your patterns to minimize noise
+- **Multi-Platform Support** - Comprehensive protection across all your important platforms
+- **Smart Detection** - Advanced algorithms identify threats in real-time
 
 ### How It Works
-1. **Connect Your Accounts** - Link the platforms you want to protect
-2. **Continuous Monitoring** - PumaShield watches for unauthorized login attempts
-3. **Instant Alerts** - Get notified via email and push notifications
-4. **Take Action** - Stop hackers before they can do damage
+1. **Sign Up** - Join the waitlist and get early access
+2. **Get Protected** - PumaShield monitors for suspicious activity
+3. **Receive Alerts** - Get notified of potential threats instantly
+4. **Stay Safe** - Stop hackers before they can do damage
 
 ## 🔐 Security Features
 
-- **Bank-Grade Encryption** - AES-256 encryption protects your data
-- **Privacy First** - We only monitor login activity, never access your account data
-- **Smart Detection** - Advanced algorithms identify threats in real-time
-- **Multi-Device Support** - Web, iOS, and Android apps (coming soon)
+- **Bank-Grade Security** - Enterprise-level protection for your digital life
+- **Privacy First** - Your data and privacy are our top priority
+- **Smart Detection** - Advanced threat identification technology
+- **Cross-Platform** - Protection across all your devices
 
 ## 🌍 Supported Platforms
 
